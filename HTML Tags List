@@ -106,7 +106,7 @@
 <param>
 <person>
 <plaintext>
-<pre>
+<pre> : Text inside it is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
 <progress>
 <q>
 <range>
